@@ -13,3 +13,10 @@ pkg update
 pkg install python python-tkinter
 ~~~
 
+## How to run it
+
+-> download todo.py on your machine and "cd" to the location todo app is on
+
+~~~
+python3 todo.py
+~~~
